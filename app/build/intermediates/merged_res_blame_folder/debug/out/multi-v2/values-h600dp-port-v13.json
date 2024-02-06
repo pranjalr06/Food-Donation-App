@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\sahil\\FOOD-HUNGER_APP-SATHYA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h600dp-port-v13\\values-h600dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RODGE\\.gradle\\caches\\transforms-3\\0c2c306dabf26bd8037fed702c121ab9\\transformed\\material-1.3.0\\res\\values-h600dp-port-v13\\values-h600dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

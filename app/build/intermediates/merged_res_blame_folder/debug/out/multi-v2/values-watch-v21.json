@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\sahil\\FOOD-HUNGER_APP-SATHYA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RODGE\\.gradle\\caches\\transforms-3\\5064d92e6ba917c06ee032e92824b756\\transformed\\appcompat-1.2.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

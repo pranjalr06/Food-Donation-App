@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\sahil\\FOOD-HUNGER_APP-SATHYA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RODGE\\.gradle\\caches\\transforms-3\\5064d92e6ba917c06ee032e92824b756\\transformed\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
